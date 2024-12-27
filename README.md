@@ -1,4 +1,4 @@
-# 💫 About Me:
+## About Me
 👋 Hi there! I'm a radiology student with a passion for coding. I mainly work with C# and JavaScript, combining my love for technology with creative projects.<br><br>Right now, I'm working on a remake of an online game I used to play as a kid—nostalgia meets coding! <br>🎮 I’m also diving into web development and game development, which are my favorite areas to explore.<br><br>When I’m not coding, I’m deep into studying anatomy and physics of radiation, preparing myself for a career in radiology. My ultimate goal? To blend my programming skills with my knowledge of radiology and build AI tools that can automate image processing and analysis for radiological applications.<br><br>If you’re into tech, games, or even radiology, let’s connect! 😊
 
 
